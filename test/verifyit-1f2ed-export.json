@@ -1,0 +1,50 @@
+{
+  "Posts" : {   
+    "-MC1LEeLEB1kC5HCYEYu" : {
+      "Barcode" : "9781408855652",
+      "ID" : "www.zapcheck.online/BSSVRTMNSDVQ",
+      "Location" : "Lat : -33.05637026677648 \nLng : 17.849410419640932",
+      "LocationShort" : "Lat : -33.06 \nLng : 17.85",
+      "Name" : "on iPhone 6 with iOS 12 using WiFi ",
+      "PhoneNumber" : "08484624yggg",
+      "Time" : "11:26:08 07/12/2020",
+      "UUID" : "B3ABC894-DE9F-3C86-A571-16AB15330A6A",
+      "myImageURL" : "https://firebasestorage.googleapis.com/v0/b/verifyit-1f2ed.appspot.com/o/www.zapcheck.online%2FBSSVRTMNSDVQ?alt=media&token=bc1bcdde-1310-4c92-aac6-df49aaf81ccf"
+    },
+    "-MC1MZPTRPoHXP3BvAID" : {
+      "Barcode" : "9781408855652",
+      "ID" : "www.zapcheck.online/XJEYDJYHLCMC",
+      "Location" : "Lat : -33.05639498411541 \nLng : 17.849415089830206",
+      "LocationShort" : "Lat : -33.06 \nLng : 17.85",
+      "Name" : "on iPhone 6 with iOS 12 using WiFi ",
+      "PhoneNumber" : "08484624yggg",
+      "Time" : "11:32:11 07/12/2020",
+      "UUID" : "B3ABC894-DE9F-3C86-A571-16AB15330A6A",
+      "myImageURL" : "https://firebasestorage.googleapis.com/v0/b/verifyit-1f2ed.appspot.com/o/www.zapcheck.online%2FXJEYDJYHLCMC?alt=media&token=05d97967-e02b-43fb-9c0f-f70e25fc9f65"
+    },
+    "-MC5ihGgqG_Z-bP18kaH" : {
+      "Document Type" : "Person",
+      "ID" : "www.zapcheck.online/GOFDHLQFYZJX",
+      "Location" : "Lat : 41.029269409883085 \nLng : 125.35827550699719",
+      "LocationShort" : "Lat : 40.03 \nLng : 124.36",
+      "Name" : "ttttttttt",
+      "PhoneNumber" : "123",
+      "RecRef" : "ref",
+      "Time" : "13:51:30 07/13/2020",
+      "UUID" : "88B0DDC5-ECE2-3EA9-B08E-3C0AB320CF05",
+      "myImageURL" : "https://firebasestorage.googleapis.com/v0/b/verifyit-1f2ed.appspot.com/o/www.zapcheck.online%2FGOFDHLQFYZJX?alt=media&token=eef54fd0-619e-41cf-a1ee-0d965976893e,https://firebasestorage.googleapis.com/v0/b/verifyit-1f2ed.appspot.com/o/www.zapcheck.online%2FGOFDHLQFYZJX?alt=media&token=50851253-1dd5-48c9-aeaa-d5647b87cad2"
+    },
+    "-MC5jfabniYHCnQs1KWg" : {
+      "Document Type" : "Document",
+      "ID" : "www.zapcheck.online/UOKKURCYWOZI",
+      "Location" : "Lat : 41.02917107994637 \nLng : 125.35837028707294",
+      "LocationShort" : "Lat : 40.03 \nLng : 124.36",
+      "Name" : "ttttttttt",
+      "PhoneNumber" : "123",
+      "RecRef" : "ref2",
+      "Time" : "13:55:40 07/13/2020",
+      "UUID" : "88B0DDC5-ECE2-3EA9-B08E-3C0AB320CF05",
+      "myImageURL" : "https://firebasestorage.googleapis.com/v0/b/verifyit-1f2ed.appspot.com/o/www.zapcheck.online%2FUOKKURCYWOZI?alt=media&token=3c296d94-0d8c-46ec-85fc-a35e981ae7b6,https://firebasestorage.googleapis.com/v0/b/verifyit-1f2ed.appspot.com/o/www.zapcheck.online%2FUOKKURCYWOZI?alt=media&token=16d73866-25c1-4423-98bf-cf2dc19617bd"
+    }
+  }
+}

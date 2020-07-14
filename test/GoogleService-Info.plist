@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>147080022975-pcs36gpdt7hg3v8os676ov8jj6t73rvu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.147080022975-pcs36gpdt7hg3v8os676ov8jj6t73rvu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZydYcF89R7POVCPS1e7xFHqolQqWgPsY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147080022975</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mark.zapcheck</string>
+	<key>PROJECT_ID</key>
+	<string>verifyit-1f2ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>verifyit-1f2ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147080022975:ios:fb009e755f7ffc1a0f2f0a</string>
+	<key>DATABASE_URL</key>
+	<string>https://verifyit-1f2ed.firebaseio.com</string>
+</dict>
+</plist>
